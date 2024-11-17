@@ -26,7 +26,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '王马扎', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '自媒体创业 | 超级个体 | AI出海', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'http://indiehacker10x.com/', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'http://wangmazha.com/', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '王马扎, AI, ChatGPT, 超级个体, 自媒体, 个人品牌, AI出海, 内容创业, 个人IP, 职业规划, 新个体', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
